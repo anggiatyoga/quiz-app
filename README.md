@@ -1,6 +1,11 @@
 # extraextrovert
 
-A new Flutter project.
+Aplikasi quiz sederhana untuk menentukan sifat atau kepribadian Introvert atau Extrovert
+
+## Screenshot
+
+![extra_extrovert](https://user-images.githubusercontent.com/53436238/90387888-2e5e8100-e0b1-11ea-8726-cc0f31d77cb5.jpg)
+
 
 ## Getting Started
 
