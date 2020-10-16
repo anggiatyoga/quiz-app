@@ -1,6 +1,8 @@
 # extraextrovert
 
-Aplikasi quiz sederhana untuk menentukan sifat atau kepribadian Introvert atau Extrovert
+This application serves to determine a person's personality whether 
+extrovert or introvert and the data from the user is stored in a 
+MySQL database.
 
 ## Screenshot
 
